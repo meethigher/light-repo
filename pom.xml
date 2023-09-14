@@ -6,6 +6,7 @@
 
     <groupId>top.meethigher</groupId>
     <artifactId>light-repo</artifactId>
+    <name>light-repo</name>
     <version>1.0</version>
     <description>轻量仓库</description>
     <url>https://github.com/meethigher/light-repo</url>
